@@ -74,7 +74,7 @@ I'm a passionate developer who loves turning ideas into **clean, functional, and
 
 <div align="center">
 
-<!-- <a href="https://github.com/uttom-kumar/github-readme-generator"> -->
+<a href="https://github.com/uttom-kumar/github-readme-generator">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=uttom-kumar&repo=github-readme-generator&theme=github_dark&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=uttom-kumar&repo=github-readme-generator&theme=default&hide_border=true" />
@@ -97,17 +97,17 @@ I'm a passionate developer who loves turning ideas into **clean, functional, and
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=uttom-kumar&show_icons=true&hide_border=true&count_private=true&theme=default" />
   <img height="165em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=uttom-kumar&show_icons=true&hide_border=true&count_private=true&theme=default" />
 </picture> -->
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=uttom-kumar&layout=compact&hide_border=true&theme=github_dark" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=uttom-kumar&layout=compact&hide_border=true&theme=default" />
   <img height="165em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttom-kumar&layout=compact&hide_border=true&theme=default" />
-</picture>
+</picture> -->
 
-<!-- <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=uttom-kumar&hide_border=true&theme=github-dark-blue" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=uttom-kumar&hide_border=true&theme=default" />
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=uttom-kumar&hide_border=true&theme=default" />
-</picture> -->
+</picture> 
 
 </div>
 
