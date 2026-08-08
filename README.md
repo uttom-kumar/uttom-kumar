@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQF_zcMMKGhF5g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724427995900?e=1729728000&v=beta&t=m2c8FST_nb1dV_Mm70Mn8hQ2lIVu1Q-0GNcNAZ8mlzk" alt="banner" width="600"/>
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQH4CpxRZy4a6w/profile-displaybackgroundimage-shrink_350_1400/B56ZuNXyZUHkAY-/0/1767603382558?e=1787788800&v=beta&t=O1hKQKmnpO8rZQyAFpWEmTuSnr3LJGUScRoVxgAcFl8" alt="banner" width="600"/>
 </p>
 
 ---
