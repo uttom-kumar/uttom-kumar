@@ -56,14 +56,66 @@ A simple and user-friendly tool that helps developers create **clean, profession
 
 ---
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="
+        https://github-readme-stats.vercel.app/api?username=uttom-kumar&show_icons=true&hide_border=true&count_private=true&theme=github_dark
+      "
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="
+        https://github-readme-stats.vercel.app/api?username=uttom-kumar&show_icons=true&hide_border=true&count_private=true&theme=default
+      "
+    />
+    <img
+      height="165em"
+      alt="GitHub Stats"
+      src="https://github-readme-stats.vercel.app/api?username=uttom-kumar&show_icons=true&hide_border=true&count_private=true&theme=default"
+    />
+  </picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="
+        https://github-readme-stats.vercel.app/api/top-langs/?username=uttom-kumar&layout=compact&hide_border=true&theme=github_dark
+      "
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="
+        https://github-readme-stats.vercel.app/api/top-langs/?username=uttom-kumar&layout=compact&hide_border=true&theme=default
+      "
+    />
+    <img
+      height="165em"
+      alt="Top Languages"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttom-kumar&layout=compact&hide_border=true&theme=default"
+    />
+  </picture>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&theme=default" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=default" />
-
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="
+        https://streak-stats.demolab.com?user=uttom-kumar&hide_border=true&theme=github-dark-blue
+      "
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="
+        https://streak-stats.demolab.com?user=uttom-kumar&hide_border=true&theme=default
+      "
+    />
+    <img
+      alt="GitHub Streak"
+      src="https://streak-stats.demolab.com?user=uttom-kumar&hide_border=true&theme=default"
+    />
+  </picture>
 </div>
 
 ---
