@@ -1,74 +1,107 @@
-<h1 align="center">Hi there, I'm Uttom Kumar</h1>
-<h3 align="center">Junior Full Stack Web Developer | MERN Stack</h3>
+# 👋 Hi, I'm Uttom Kumar Barman
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+### 💻 MERN Stack Developer | CSE Student | Web App Enthusiast
+
+I'm a passionate developer who loves turning ideas into **clean, functional, and user-friendly web applications**.
+Currently, I'm sharpening my skills in the **MERN Stack** and building projects that help me learn, experiment, and grow as a developer.
+
+---
+
+## 🎓 Education
+
+**Bangladesh University of Business and Technology (BUBT)**
+🎓 **B.Sc. in Computer Science & Engineering (CSE)** — *Ongoing*
+
+---
+
+## 🚀 About Me
+
+* 🔥 Currently building a **GitHub README Generator** — a fun tool for creating clean and professional README files.
+* 💻 Continuously improving my skills in the **MERN Stack**.
+* 🌱 Exploring modern web development and production-level application development.
+* 🧠 I enjoy solving problems and turning ideas into working applications.
+* ⚡ **Fun fact:** I love turning ideas into real web apps!
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 </p>
 
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQH4CpxRZy4a6w/profile-displaybackgroundimage-shrink_350_1400/B56ZuNXyZUHkAY-/0/1767603382558?e=1787788800&v=beta&t=O1hKQKmnpO8rZQyAFpWEmTuSnr3LJGUScRoVxgAcFl8" alt="banner" width="600"/>
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### 🔧 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
 
 ---
 
-###  About Me
+## 📌 Featured Project
 
--  I'm currently working on building a **GitHub README generator** — a fun project that lets you create clean, simple README files to copy/paste into your own profile.
--  I'm continuously sharpening my skills in the **MERN stack**.
--  Ask me about **HTML, CSS, JavaScript, React, Node.js, Express, MongoDB**.
--  Fun fact: I love turning ideas into working web apps!
+### 🔖 GitHub README Generator
 
----
+A simple and user-friendly tool that helps developers create **clean, professional GitHub README files** quickly.
 
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
+**Goal:** Make creating a great GitHub profile easier for developers. 🚀
 
 ---
 
-### Connect with Me
+## 📊 GitHub Stats
 
-<p align="left">
-  <a href="https://github.com/uttom-kumar" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/uttomkumarbarman/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40" />
-  </a>
-  <a href="https://www.facebook.com/uttomkumar0" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="40" />
-  </a>
-</p>
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&theme=default" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=default" />
+
+</div>
 
 ---
 
-### GitHub Stats
+## 🔥 GitHub Streak
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=uttom-kumar&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttom-kumar&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=uttom-kumar&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&theme=default" />
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/uttom-kumar" alt="GitHub metrics" />
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=uttom-kumar&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
-</p>
+## 🤝 Connect With Me
 
-<p align="center"><i>Thanks for visiting my profile! Feel free to reach out 🚀</i></p>
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Turning ideas into working web apps."*
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
