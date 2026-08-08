@@ -37,11 +37,9 @@ I'm a passionate developer who loves turning ideas into **clean, functional, and
 
 ## 🚀 About Me
 
-- 🔥 Currently building a **GitHub README Generator** — a fun tool for creating clean, professional README files
-- 💻 Continuously improving my skills across the **MERN Stack**
-- 🌱 Exploring modern web development and production-level application design
-- 🧠 I enjoy solving problems and turning ideas into working applications
-- ⚡ **Fun fact:** I love turning ideas into real web apps!
+### Hi there 👋, my name is Uttom Kumar
+#### I am junior full Stack Web-developer with MERN
+![I am junior full Stack Web-developer with MERN](https://media.licdn.com/dms/image/v2/D5616AQF_zcMMKGhF5g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724427995900?e=1729728000&v=beta&t=m2c8FST_nb1dV_Mm70Mn8hQ2lIVu1Q-0GNcNAZ8mlzk)
 
 <br/>
 
