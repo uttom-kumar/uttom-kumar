@@ -56,7 +56,7 @@ A simple and user-friendly tool that helps developers create **clean, profession
 
 ---
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 
 <div align="center">
 
