@@ -1,6 +1,7 @@
 ## 🚀 About Me
 
-### Hi there, my name is Uttom Kumar
+### Hi there, I'm Uttom Kumar
+
 <div align="center">
 
 <picture>
