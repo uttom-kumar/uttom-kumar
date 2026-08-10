@@ -1,4 +1,4 @@
-## 🚀 About Me
+## About Me
 
 ### Hi there, I'm Uttom Kumar
 
@@ -64,7 +64,7 @@ I'm a passionate developer who loves turning ideas into **clean, functional, and
 
 <br/>
 
-## 📌 Featured Project
+## Featured Project
 
 <div align="center">
 
@@ -107,7 +107,7 @@ I'm a passionate developer who loves turning ideas into **clean, functional, and
 
 <br/>
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -130,8 +130,8 @@ I'm a passionate developer who loves turning ideas into **clean, functional, and
 
 <div align="center">
 
-### 💡 *"Turning ideas into working web apps."*
+###  *"Turning ideas into working web apps."*
 
-⭐ **Thanks for visiting my profile!**
+ **Thanks for visiting my profile!**
 
 </div>
