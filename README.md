@@ -24,7 +24,7 @@ I'm a passionate developer who loves turning ideas into **clean, functional, and
 
 <br/>
 
-## 🎓 Education
+## Education
 
 <table>
 <tr>
